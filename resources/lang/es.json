@@ -1,0 +1,7 @@
+{
+    "Login": "Iniciar sesión",
+    "Password": "Contraseña",
+    "Remember Me": "Recordarme",
+    "Forgot Your Password?": "¿Olvidaste tu contraseña?",
+    "auth.failed": "Credenciales inválidas"
+}
